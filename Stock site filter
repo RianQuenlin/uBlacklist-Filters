@@ -1,0 +1,22 @@
+//Stock sites filter for uBlacklist
+//Can someone monopolize this under one website already?
+*://*.123rf.com/*
+*://*.alamy.com/*
+*://*.bigstockphoto.com/*
+*://*.canstockphoto.com/*
+*://*.depositphotos.com/*
+*://*.dreamstime.com/*
+*://*.gettyimages.com/*
+*://*.istockphoto.com/*
+*://*.sciencephoto.com/*
+*://*.seekpng.com/*
+*://*.shutterstock.com/*
+*://*.stock.adobe.com/*
+*://*.stockvault.net/*
+*://*.unsplash.com/*
+*://*.vectorstock.com/*
+*://*.pixtastock.com/*
+*://*.crushpixel.com/*
+*://*.gettyimages.ae/*
+*://*.gettyimages.co.uk/*
+*://*.clipartof.com/*
