@@ -1,0 +1,28 @@
+//Biased Media Chart
+//I used the AdFontesMedia graph as a reference for this.
+//This only considers reliability or extreme acts of scummery, left or right is not a factor. Some hyper-biased outlets don't show up on Google which is amusing
+
+*://*.alternet.org/*
+*://*.counterpunch.org/*
+*://*.crooksandliars.com/*
+*://*.dailymail.co.uk/*
+*://*.foxnews.com/*
+*://*.freespeech.org/*
+*://*.huffingtonpost.co.uk/*
+*://*.jacobinmag.com/*
+*://*.metro.co.uk/*
+*://*.msnbc.com/*
+*://*.nationalreview.com/*
+*://*.nypost.com/*
+*://*.oann.com/*
+*://*.progressive.org/*
+*://*.slate.com/*
+*://*.spectator.org/*
+*://*.thedailybeast.com/*
+*://*.theroot.com/*
+*://*.thesun.co.uk/*
+*://*.theweek.co.uk/*
+*://*.theweek.com/*
+*://*.washingtonexaminer.com/*
+*://*.washingtontimes.com/*
+*://*.wonkette.com/*
