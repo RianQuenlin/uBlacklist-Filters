@@ -1,0 +1,18 @@
+//Trash gaming sites filter for uBlacklist
+*://*.arstechnica.com/*
+*://*.critical-distance.com/*
+*://*.deadspin.com/*
+*://*.destructoid.com/*
+*://*.gamasutra.com/*
+*://*.gawker.com/*
+*://*.jezebel.com/*
+*://*.kotaku.*/*
+*://*.lifehacker.com/*
+*://*.polygon.com/*
+*://*.resetera.com/*
+*://*.rockpapershotgun.com/*
+*://*.salon.com/*
+*://*.themarysue.com/*
+*://*.theverge.com/*
+*://*.vg247.com/*
+*://*.vox.com/*
