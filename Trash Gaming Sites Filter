@@ -1,4 +1,4 @@
-//Trash gaming sites filter for uBlacklist
+//Trash gaming sites filter for uBlacklist, including content thieves, rage baiters, racist communities, and pedo-apologism.
 *://*.arstechnica.com/*
 *://*.critical-distance.com/*
 *://*.deadspin.com/*
@@ -13,6 +13,7 @@
 *://*.lifehacker.com/*
 *://*.polygon.com/*
 *://*.resetera.com/*
+*://*.riotbits.com/*
 *://*.rockpapershotgun.com/*
 *://*.salon.com/*
 *://*.sirusgaming.com/*
